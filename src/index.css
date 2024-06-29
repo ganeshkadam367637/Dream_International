@@ -1,0 +1,15 @@
+.navbar-nav li:hover{
+    background-color: rgba(0, 0, 0, 0.1) !important;
+    padding: 0px !important;
+    margin: 0px !important;
+   
+}
+
+.pppp{
+    margin-left: -45px !important;
+}
+
+.toast-container{
+    position: absolute;
+    bottom: 100px !important;
+}
